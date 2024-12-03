@@ -1,0 +1,107 @@
+header{
+    background: black;
+    display: flex;
+    height: 70px;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 119px;
+    height: 26px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.right-header{
+    color: white;
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    letter-spacing: 1px;
+    margin-left: 396px;
+    font-family: "Open Sans", sans-serif;
+}
+.right{
+    color: white;
+    text-decoration: none;
+}
+.right:hover{
+    color: #e53f27;
+}
+.left-container{
+    background: rgb(240, 145, 48);
+    width: 50%;
+    height: 1241px;
+    margin-top: -4px;
+    display: flex;
+    justify-content: center;
+}
+.design{
+    width: 190px;
+    height: 529px;
+    margin-top: 50%;
+}
+.image-text{
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    margin-left: -256px;
+    margin-top: 545px;
+    font-family: "EksellDisplayWeb-Small";
+}
+container{
+    display: flex;
+}
+.right-para{
+    font-size: 24px;
+    display: flex;
+    font-family: Arial, sans-serif;
+    line-height: 1.2;    
+    padding-top: 149px;
+    padding-left: 139px;
+
+
+}
+.frooti-set{
+    width: 100%;
+}
+footer{
+    height: 250px;
+    
+}
+.first-portion{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left-side{
+    margin-left: 49px;
+    padding-top: 36px;
+    
+}
+.center{
+    margin-left: 522px;
+    margin-top: -131px;
+    line-height: 13px;
+}
+.decoration{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+}
+.right-side{
+    margin-left: 993px;
+    margin-top: -132px;
+    line-height: 15px;
+}
+.icons{
+    display: flex;
+    margin-left: 993px;
+}
+.decoration:hover{
+    color: #e53f27;
+}
+
